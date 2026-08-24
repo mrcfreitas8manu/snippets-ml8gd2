@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mrcfreitas8manu.github.io/snippets-ml8gd2/sitemap.xml
